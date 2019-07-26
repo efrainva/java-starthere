@@ -1,6 +1,6 @@
 package com.lambdaschool.starthere.services;
 
-import com.school.sprint.model.Author;
+import com.lambdaschool.starthere.models.Author;
 
 import java.util.ArrayList;
 

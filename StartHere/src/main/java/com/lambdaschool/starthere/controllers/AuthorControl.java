@@ -1,7 +1,7 @@
 package com.lambdaschool.starthere.controllers;
 
-import com.school.sprint.model.Author;
-import com.school.sprint.service.AuthorService;
+import com.lambdaschool.starthere.models.Author;
+import com.lambdaschool.starthere.services.AuthorService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
